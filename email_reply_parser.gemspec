@@ -18,7 +18,6 @@ Gem::Specification.new do |s|
   s.name              = 'email_reply_parser'
   s.version           = EmailReplyParser::VERSION
   s.date              = Time.now.strftime('%Y-%m-%d')
-  s.rubyforge_project = 'email_reply_parser'
 
   ## Make sure your summary is short. The description may be as long
   ## as you like.
